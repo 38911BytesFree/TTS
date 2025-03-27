@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack",
-    "zip": "bestzip tts.zip dist/background.js manifest.json"
+    "zip": "bestzip tts.zip dist/background.js manifest.json images/icon.png images/icon_48.png"
   },
   "keywords": [],
   "author": "",
